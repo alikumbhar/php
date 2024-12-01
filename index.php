@@ -1,3 +1,4 @@
+<?php echo "TIME IS: "; ?>
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script>
  $(document).ready(function(){
